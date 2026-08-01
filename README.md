@@ -8,6 +8,7 @@
   - Quản lý Kho: Kiểm tra tồn kho, cảnh báo thiếu hàng và quản lý nhập/xuat sản phẩm.
   - Nhân sự & Phân quyền: Quản lý nhân viên theo từng vị trí, đảm bảo tính bảo mật.
   - Báo cáo & Thống kê: Cập nhật doanh thu, đơn hàng.
+  - Sao lưu & Phôi phục (Backup & Restore).
     
 * Công nghệ:
   - Công cụ: Visual Studio.
