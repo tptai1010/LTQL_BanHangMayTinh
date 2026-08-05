@@ -11,7 +11,4 @@
   - Trigger đảm bảo logic vận hành.
   - Sao lưu & Phôi phục (Backup & Restore).
     
-* Công nghệ:
-  - Công cụ: Visual Studio.
-  - Framework: Windows Forms App (.NET Framework).
-  - CSDL: SQL SERVER.
+* Công nghệ: C#, WinForms (.NET Framework), Entity Framework, SQL Server. 
